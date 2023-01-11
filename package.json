@@ -1,0 +1,50 @@
+{
+  "name": "p",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@popperjs/core": "^2.11.2",
+    "@vuelidate/core": "^2.0.0-alpha.34",
+    "@vuelidate/validators": "^2.0.0-alpha.26",
+    "axios": "^0.25.0",
+    "axois": "0.0.1-security",
+    "bootstrap-icons-vue": "^1.8.1",
+    "core-js": "^3.6.5",
+    "dotenv": "^16.0.0",
+    "jamit-audio-recorder": "^0.1.6",
+    "jquey": "0.0.1-security",
+    "normaliz": "^0.2.0",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.0.0",
+    "vue-audio-recorder": "^3.0.1",
+    "vue-capture": "^0.1.7",
+    "vue-router": "^4.0.0-0",
+    "vue3-mobile-detection": "^1.0.5",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "bootstrap": "^4.6.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^7.0.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "prettier": "^2.2.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  }
+}
